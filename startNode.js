@@ -20,7 +20,7 @@ const server = http.createServer((req, res) => {
     res.setHeader('Content-Type', 'text/plain; charset=utf-8');
     res.end(`
 Creator By: 66013716 พุฒิเทพ แก้วเกษ 
-Welcome to CSI203-Lab: Demo-ServerNode.js...
+Welcome to CSI203-Laboratory: Demo-ServerNode.js...
 Server: ${hostname}
 Port: ${port}
 Platform: ${platform}
